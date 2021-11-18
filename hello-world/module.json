@@ -1,0 +1,11 @@
+{
+    "name": "hello-world",
+    "title": "Hello World - An Example FVTT Module",
+    "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+    "author": "Gadgets",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "scripts": [
+        "scripts/hello.js"
+      ]
+  }
